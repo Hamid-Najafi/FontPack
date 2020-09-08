@@ -1,4 +1,0 @@
-# FontPack
-
-English & Perian FontPack
-=======
